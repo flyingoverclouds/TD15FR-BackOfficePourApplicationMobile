@@ -1,0 +1,6 @@
+﻿Open the Package.appxmanifest and replace the following value with your own settings : 
+	* Identity 
+		Name 
+		Publisher
+	* mp:PhoneIdentity
+		PhoneProductID
